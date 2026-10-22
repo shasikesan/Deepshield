@@ -1,0 +1,298 @@
+[
+    {
+        "timestamp": "2026-09-17T17:57:06.868453",
+        "filename": "VID_ft.veluu_20260916_112448_74c.mp4",
+        "result": "FAKE",
+        "confidence": 0.9406640625,
+        "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "hash": "43e75eaabe43159659670cbe69640edc7ba573a694912cebe5a68b44f2acbcb8"
+    },
+    {
+        "timestamp": "2026-09-17T17:58:06.668251",
+        "filename": "VID_ft.veluu_20260916_112448_74c.mp4",
+        "result": "FAKE",
+        "confidence": 0.9406640625,
+        "previous_hash": "43e75eaabe43159659670cbe69640edc7ba573a694912cebe5a68b44f2acbcb8",
+        "hash": "9c562596935f57ce6565e7c8998ee0277d84bb216697ba2b6f941f44192e57c1"
+    },
+    {
+        "timestamp": "2026-09-17T17:58:31.928202",
+        "filename": "WhatsApp Video 2026-09-16 at 11.54.42 AM.mp4",
+        "result": "FAKE",
+        "confidence": 0.83782470703125,
+        "previous_hash": "9c562596935f57ce6565e7c8998ee0277d84bb216697ba2b6f941f44192e57c1",
+        "hash": "26ac4e1a2522bf3e0d3b56db81f9e2eef95d10ad5dd2fdb81ad7ad69d6b774eb"
+    },
+    {
+        "timestamp": "2026-09-17T17:59:47.433115",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "26ac4e1a2522bf3e0d3b56db81f9e2eef95d10ad5dd2fdb81ad7ad69d6b774eb",
+        "hash": "b609c392aecdd07b2daf371e9c6bd918fba22dc8e52c295ed6e6824458826e85"
+    },
+    {
+        "timestamp": "2026-09-17T17:59:48.242811",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "b609c392aecdd07b2daf371e9c6bd918fba22dc8e52c295ed6e6824458826e85",
+        "hash": "3e3699bfcc800565a4cc1cd04df9778ab2db0a591a38f2284ab9730121757f25"
+    },
+    {
+        "timestamp": "2026-09-17T18:08:53.228994",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "3e3699bfcc800565a4cc1cd04df9778ab2db0a591a38f2284ab9730121757f25",
+        "hash": "a7b22d22e7f5504d1d910baaafb8bf1f468a65bdfddc03e9355e23403eefe8aa"
+    },
+    {
+        "timestamp": "2026-09-17T18:10:02.768756",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "a7b22d22e7f5504d1d910baaafb8bf1f468a65bdfddc03e9355e23403eefe8aa",
+        "hash": "44de9bb636ea49f9011224fe1eacfa58b1154621cc0c40ca5c7f9e5772b5aed6"
+    },
+    {
+        "timestamp": "2026-09-17T18:43:31.692433",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "44de9bb636ea49f9011224fe1eacfa58b1154621cc0c40ca5c7f9e5772b5aed6",
+        "hash": "bc97e76c4a697b0064a8a746857e9d609e3de0814a88a2b19aee212d231f31eb"
+    },
+    {
+        "timestamp": "2026-09-17T18:43:59.454065",
+        "filename": "WhatsApp Video 2026-09-16 at 11.54.42 AM.mp4",
+        "result": "FAKE",
+        "confidence": 0.83782470703125,
+        "previous_hash": "bc97e76c4a697b0064a8a746857e9d609e3de0814a88a2b19aee212d231f31eb",
+        "hash": "e7bbd4b5f2c4e976012937d6d647719f9e4158dc4c5c94ebd00fbf1a5ef7e82a"
+    },
+    {
+        "timestamp": "2026-09-17T18:44:28.819367",
+        "filename": "VID_ft.veluu_20260916_112448_74c.mp4",
+        "result": "FAKE",
+        "confidence": 0.9406640625,
+        "previous_hash": "e7bbd4b5f2c4e976012937d6d647719f9e4158dc4c5c94ebd00fbf1a5ef7e82a",
+        "hash": "292766cbc61494b6883341a69c903d720f457232f239f799225285352a1d0a01"
+    },
+    {
+        "timestamp": "2026-09-17T19:24:50.928159",
+        "filename": "VID_ft.veluu_20260916_112448_74c.mp4",
+        "result": "FAKE",
+        "confidence": 0.9406640625,
+        "previous_hash": "292766cbc61494b6883341a69c903d720f457232f239f799225285352a1d0a01",
+        "hash": "cb5e4a990422ef7a1148abef0897b01791f24e67a48c867e50265be51a609083"
+    },
+    {
+        "timestamp": "2026-09-17T19:25:56.751841",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "cb5e4a990422ef7a1148abef0897b01791f24e67a48c867e50265be51a609083",
+        "hash": "d18554872fc8d6e065cc64c1574401b3d998dba31f8cc1b2f71bdef0cb90ee99"
+    },
+    {
+        "timestamp": "2026-09-17T19:30:33.102077",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "d18554872fc8d6e065cc64c1574401b3d998dba31f8cc1b2f71bdef0cb90ee99",
+        "hash": "7b5a438e106f127d76dab3c2101243aa4a68d043471ed044f8f4eb88a8fbaa9d"
+    },
+    {
+        "timestamp": "2026-09-17T20:43:54.922678",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "7b5a438e106f127d76dab3c2101243aa4a68d043471ed044f8f4eb88a8fbaa9d",
+        "hash": "b911192a2c88e5f88b27b757f0e5cbeada8be525824d8e2bc22b085f8de72f93"
+    },
+    {
+        "timestamp": "2026-09-17T20:48:53.006990",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "b911192a2c88e5f88b27b757f0e5cbeada8be525824d8e2bc22b085f8de72f93",
+        "hash": "bc8044ef45e600e8179277620a52068f58b7497e6598e995ce509478ce03855e"
+    },
+    {
+        "timestamp": "2026-09-17T20:50:38.019833",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "bc8044ef45e600e8179277620a52068f58b7497e6598e995ce509478ce03855e",
+        "hash": "06276f5e6ef59d60a3542ad2d365f232c043d722eb789c469125f8f5b7619330"
+    },
+    {
+        "timestamp": "2026-09-17T20:57:56.716678",
+        "filename": "WIN_20260917_17_59_02_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.963587646484375,
+        "previous_hash": "06276f5e6ef59d60a3542ad2d365f232c043d722eb789c469125f8f5b7619330",
+        "hash": "5511725f18f0e1e42e485538c2ee34ea034526669565ab3850acd4463b19f546"
+    },
+    {
+        "timestamp": "2026-09-17T20:58:26.221427",
+        "filename": "IMG_8030.MOV",
+        "result": "FAKE",
+        "confidence": 0.5721484375,
+        "previous_hash": "5511725f18f0e1e42e485538c2ee34ea034526669565ab3850acd4463b19f546",
+        "hash": "5cdcb5d53a62ebea85e03389088dbc6015f4e284c38a33d0277543f30eb252ed"
+    },
+    {
+        "timestamp": "2026-09-17T21:04:36.011078",
+        "filename": "IMG_8030.MOV",
+        "result": "FAKE",
+        "confidence": 0.5721484375,
+        "previous_hash": "5cdcb5d53a62ebea85e03389088dbc6015f4e284c38a33d0277543f30eb252ed",
+        "hash": "b24d6a3a8b5db3414efe14b39a677b53d900ea65e4d0339dfa6c83b1bce08557"
+    },
+    {
+        "timestamp": "2026-09-18T15:55:24.475997",
+        "filename": "WhatsApp Video 2026-09-18 at 3.38.57 PM.mp4",
+        "result": "REAL",
+        "confidence": 0.6612158203125,
+        "previous_hash": "b24d6a3a8b5db3414efe14b39a677b53d900ea65e4d0339dfa6c83b1bce08557",
+        "hash": "dc5dbe06fd1bde728de76518de56674214faa9b8d7dba9fb12ec93906e9c260b"
+    },
+    {
+        "timestamp": "2026-09-18T15:55:41.418339",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.7521484375,
+        "previous_hash": "dc5dbe06fd1bde728de76518de56674214faa9b8d7dba9fb12ec93906e9c260b",
+        "hash": "c678903fa3eafc1bff7900456dc10fcf7be9dfabe1b42cbc27c69baf355da5b5"
+    },
+    {
+        "timestamp": "2026-09-18T15:56:57.031247",
+        "filename": "WhatsApp Video 2026-09-18 at 3.38.57 PM.mp4",
+        "result": "REAL",
+        "confidence": 0.6612158203125,
+        "previous_hash": "c678903fa3eafc1bff7900456dc10fcf7be9dfabe1b42cbc27c69baf355da5b5",
+        "hash": "51667433bc1582b15b3a3bcdb582d4ed1db6fb8092e4bfbd2442931f0d555363"
+    },
+    {
+        "timestamp": "2026-09-18T15:58:42.704172",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.7521484375,
+        "previous_hash": "51667433bc1582b15b3a3bcdb582d4ed1db6fb8092e4bfbd2442931f0d555363",
+        "hash": "412356b4acbabcedbcb9e18b7794a608a8b190b68a4ef362e397fac11a0dda41"
+    },
+    {
+        "timestamp": "2026-09-18T16:00:45.696399",
+        "filename": "WhatsApp Video 2026-09-18 at 3.59.35 PM.mp4",
+        "result": "FAKE",
+        "confidence": 0.94066162109375,
+        "previous_hash": "412356b4acbabcedbcb9e18b7794a608a8b190b68a4ef362e397fac11a0dda41",
+        "hash": "fbf9a6a04d6b7a00207c7dbe5d231532de67dd9862047b48572e32a087fde631"
+    },
+    {
+        "timestamp": "2026-09-18T16:05:12.611472",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "FAKE",
+        "confidence": 0.6494754028320312,
+        "previous_hash": "fbf9a6a04d6b7a00207c7dbe5d231532de67dd9862047b48572e32a087fde631",
+        "hash": "67b5ed9c8434f857b6b73fc709104102543bdd375ab023922eebb7e03046df83"
+    },
+    {
+        "timestamp": "2026-09-18T16:05:29.272637",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "FAKE",
+        "confidence": 0.6494754028320312,
+        "previous_hash": "67b5ed9c8434f857b6b73fc709104102543bdd375ab023922eebb7e03046df83",
+        "hash": "f0d2c11541c2b9530945c72a486d8cb47026e0defa0cd3efaa552616cd3a4f6f"
+    },
+    {
+        "timestamp": "2026-09-18T16:05:44.421811",
+        "filename": "WhatsApp Video 2026-09-18 at 3.38.57 PM.mp4",
+        "result": "FAKE",
+        "confidence": 0.530377197265625,
+        "previous_hash": "f0d2c11541c2b9530945c72a486d8cb47026e0defa0cd3efaa552616cd3a4f6f",
+        "hash": "d32eade2ef82598e60f5b2e6323d5df19f9b3bc84be424d060efb3f3b941e233"
+    },
+    {
+        "timestamp": "2026-09-18T16:05:55.067096",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "FAKE",
+        "confidence": 0.6494754028320312,
+        "previous_hash": "d32eade2ef82598e60f5b2e6323d5df19f9b3bc84be424d060efb3f3b941e233",
+        "hash": "b15039546ab5b990c0cfb853eab17db0c0deda918e4efb5a8a70272b4905c6b6"
+    },
+    {
+        "timestamp": "2026-09-18T16:07:11.096320",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "FAKE",
+        "confidence": 0.6494754028320312,
+        "previous_hash": "b15039546ab5b990c0cfb853eab17db0c0deda918e4efb5a8a70272b4905c6b6",
+        "hash": "f32962476945ac5e7319fcf9dedb7e87623e9a173309ff50bf48f6825487c459"
+    },
+    {
+        "timestamp": "2026-09-18T16:11:42.529594",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.5161,
+        "previous_hash": "f32962476945ac5e7319fcf9dedb7e87623e9a173309ff50bf48f6825487c459",
+        "hash": "b7896549b3e76a34c802365651226096ac7b404f3183650a7b38ea58855065a4"
+    },
+    {
+        "timestamp": "2026-09-18T16:12:22.957131",
+        "filename": "WhatsApp Video 2026-09-18 at 3.59.35 PM.mp4",
+        "result": "FAKE",
+        "confidence": 0.5215,
+        "previous_hash": "b7896549b3e76a34c802365651226096ac7b404f3183650a7b38ea58855065a4",
+        "hash": "c1531e7267e3d09b628ae437d9b3468d378883dc4dd39f703943bb8913ebe538"
+    },
+    {
+        "timestamp": "2026-09-18T16:13:09.651427",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.5161,
+        "previous_hash": "c1531e7267e3d09b628ae437d9b3468d378883dc4dd39f703943bb8913ebe538",
+        "hash": "6ecb093e06a521e08540cc773fc3e4cd040e1e593bb611592725a95b2d9900f0"
+    },
+    {
+        "timestamp": "2026-09-18T16:13:36.587018",
+        "filename": "WhatsApp Video 2026-09-18 at 3.59.35 PM (1).mp4",
+        "result": "REAL",
+        "confidence": 0.5661,
+        "previous_hash": "6ecb093e06a521e08540cc773fc3e4cd040e1e593bb611592725a95b2d9900f0",
+        "hash": "d5e2d51cf3dfda993ed3b55d78f3a2f17e6852ace94f3af6450a9ef4e73aca3c"
+    },
+    {
+        "timestamp": "2026-09-18T16:14:47.326948",
+        "filename": "WhatsApp Video 2026-09-18 at 3.59.35 PM.mp4",
+        "result": "FAKE",
+        "confidence": 0.5215,
+        "previous_hash": "d5e2d51cf3dfda993ed3b55d78f3a2f17e6852ace94f3af6450a9ef4e73aca3c",
+        "hash": "c417f2f4ff7b040a4dd2f608ed3e64838c66688adf8baaa1caa8f8a49ef123a7"
+    },
+    {
+        "timestamp": "2026-09-18T16:15:42.194961",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.5161,
+        "previous_hash": "c417f2f4ff7b040a4dd2f608ed3e64838c66688adf8baaa1caa8f8a49ef123a7",
+        "hash": "9b20547a17da192808a2d046c95fa3bee9fee1d428214d930f0461d80d3c5d66"
+    },
+    {
+        "timestamp": "2026-09-18T16:16:15.806909",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.5161,
+        "previous_hash": "9b20547a17da192808a2d046c95fa3bee9fee1d428214d930f0461d80d3c5d66",
+        "hash": "c9d802727cc9b86385fff9b205440cbfdad1c9dfe39ac3efe8be57cf63c8795a"
+    },
+    {
+        "timestamp": "2026-09-18T16:19:33.831453",
+        "filename": "WIN_20260918_15_39_22_Pro.mp4",
+        "result": "REAL",
+        "confidence": 0.5161,
+        "previous_hash": "c9d802727cc9b86385fff9b205440cbfdad1c9dfe39ac3efe8be57cf63c8795a",
+        "hash": "d85bdf7fdb170d7b12d3d96b6f9c8b5b531a1ab3be561af1927fa13fb5d44a45"
+    }
+]

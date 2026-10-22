@@ -1,0 +1,187 @@
+.profile-layout {
+  display: flex;
+  min-height: 100vh;
+  background-color: #fff;
+}
+
+.profile-sidebar {
+  width: 250px;
+  border-right: 1px solid #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+}
+
+.profile-sidebar-header {
+  padding: 1.5rem;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #111;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.profile-sidebar-header-icon {
+  width: 24px; height: 24px;
+  background: #ff5e5e;
+  color: white;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+.profile-nav-group {
+  padding: 0 1rem;
+  margin-bottom: 2rem;
+}
+.profile-nav-title {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  color: #a0a0a0;
+  letter-spacing: 1px;
+  margin-bottom: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.profile-nav-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem;
+  border-radius: 8px;
+  color: #555;
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+  transition: all 0.2s;
+}
+.profile-nav-item:hover {
+  background: #f8f9fa;
+  color: #111;
+}
+.profile-nav-item.active {
+  background: #f0f4ff;
+  color: #4634d9;
+  font-weight: 500;
+}
+.profile-nav-item.active svg {
+  color: #4634d9;
+}
+
+.profile-main {
+  flex: 1;
+  padding: 2rem 4rem;
+  max-width: 900px;
+}
+
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #666;
+  font-size: 0.95rem;
+  margin-bottom: 3rem;
+  border-bottom: 1px solid #f0f0f0;
+  padding-bottom: 1rem;
+}
+
+.profile-user-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #f0f0f0;
+}
+.profile-avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+  background: #eee;
+  overflow: hidden;
+}
+.profile-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.profile-name {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #111;
+  margin-bottom: 0.25rem;
+}
+.profile-surname {
+  font-size: 1.5rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+.profile-location {
+  font-size: 0.85rem;
+  color: #a0a0a0;
+  margin-bottom: 1rem;
+}
+.btn-social {
+  padding: 0.4rem 1rem;
+  background: #f8f9fa;
+  border: 1px solid #eee;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  color: #555;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+}
+
+.profile-section-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #111;
+  margin-bottom: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.identity-card {
+  border: 1px solid #f0f0f0;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+}
+.identity-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.identity-icon {
+  width: 40px; height: 40px;
+  display: flex; align-items: center; justify-content: center;
+  background: #f8f9fa;
+  border-radius: 50%;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.identity-email {
+  font-weight: 500;
+  color: #333;
+  font-size: 0.95rem;
+}
+.identity-provider {
+  font-size: 0.8rem;
+  color: #888;
+}
+.btn-login-status {
+  padding: 0.4rem 1rem;
+  background: rgba(16, 185, 129, 0.1);
+  color: #10b981;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  border: none;
+}

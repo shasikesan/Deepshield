@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap');
+
+:root {
+  --background: #f8f9fa;
+  --foreground: #1c362d;
+  --green-primary: #5db988;
+  --green-gradient: linear-gradient(135deg, #74d29f, #45a477);
+  --border-light: rgba(0,0,0,0.08);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--background);
+  color: var(--foreground);
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Base button styles */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1.25rem;
+  border-radius: 9999px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.95rem;
+}
+
+.btn-outline {
+  border: 1px solid var(--border-light);
+  background: transparent;
+}
+.btn-outline:hover {
+  background: rgba(0,0,0,0.02);
+}
+
+.btn-primary {
+  background: var(--green-gradient);
+  color: white;
+  border: none;
+  padding: 0.8rem 2rem;
+  box-shadow: 0 4px 15px rgba(93, 185, 136, 0.4);
+}
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(93, 185, 136, 0.5);
+}
+
+.btn-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 2px solid var(--green-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--green-primary);
+  background: white;
+  font-size: 1.2rem;
+  font-weight: 300;
+  transition: all 0.2s;
+}
+.btn-icon:hover {
+  background: var(--green-primary);
+  color: white;
+}
+
+/* Glass Floating Icons */
+.glass-icon {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 1.5rem;
+  padding: 1.5rem;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.06);
+  position: absolute;
+  animation: float 6s ease-in-out infinite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.glass-icon svg {
+  width: 40px;
+  height: 40px;
+  stroke: var(--green-primary);
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+  100% { transform: translateY(0px); }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+section[id] {
+  scroll-margin-top: 80px;
+}
+
+/* Fade in animation */
+.animate-fade-in {
+  animation: fadeIn 0.8s ease-out forwards;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Background Swirl Effect */
+.bg-swirl {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 900px;
+  height: 900px;
+  background: radial-gradient(circle, rgba(93,185,136,0.15) 0%, rgba(93,185,136,0) 60%);
+  border-radius: 50%;
+  z-index: -1;
+  pointer-events: none;
+}
+.bg-swirl::before {
+  content: '';
+  position: absolute;
+  top: 15%; left: 15%; right: 15%; bottom: 15%;
+  border: 60px solid rgba(93,185,136,0.08);
+  border-radius: 50%;
+}
+.bg-swirl::after {
+  content: '';
+  position: absolute;
+  top: 25%; left: 25%; right: 25%; bottom: 25%;
+  border: 40px solid rgba(93,185,136,0.12);
+  border-radius: 50%;
+}

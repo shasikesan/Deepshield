@@ -1,0 +1,32 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Ignore virtual environment folder
+venv/
+env/
+.venv/
+
+# Ignore system files
+.DS_Store
+*.swp
+
+# Ignore log files
+*.log
+
+# Ignore data files
+*.csv
+*.h5
+
+# Ignore compiled models
+*.h5
+*.ckpt
+
+# Ignore AWS lambda zip packages
+lambda_function.zip
+
+# Ignore Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
